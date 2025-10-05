@@ -13,6 +13,15 @@ _I love understanding how systems communicate securely and how to build strong, 
 - Linux and WSL usage  
 - VS Code Remote SSH  
 
+---
+
+## Sample PHP Code
+
+```php
+<?php
+echo "Learning Markdown is fun!";
+?>
+
 <!---
 vimal2046/vimal2046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
