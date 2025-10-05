@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @vimal2046
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning B.E Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vimalchandar2003@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Vimal!
+
+_I'm currently learning **PHP backend development** and planning to specialize in **cybersecurity**._
+
+_I love understanding how systems communicate securely and how to build strong, safe web applications._
+
+---
+
+## My Current Skills
+
+- HTML, CSS, and Bootstrap  
+- PHP Basics  
+- Linux and WSL usage  
+- VS Code Remote SSH  
+
+---
+
+## Sample PHP Code
+
+```php
+<?php
+echo "Learning Markdown is fun!";
+?>
 
 <!---
 vimal2046/vimal2046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
